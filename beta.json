@@ -2,7 +2,7 @@
   "magisk": {
     "version": "25.2",
     "versionCode": "25200",
-    "link": "https://gitee.com/misutaka/magisk-files/raw/master/Magisk-v25.2_2.apk",
+    "link": "https://raw.githubusercontent.com/asaids/magisk-files/master/Magisk-v25.2_2.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/25200.md"
   },
   "stub": {
